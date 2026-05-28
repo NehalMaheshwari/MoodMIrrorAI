@@ -15,3 +15,9 @@ AI-powered real-time emotion detection using Python and OpenCV.
 - OpenCV
 - FER
 - TensorFlow
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
+python app.py
