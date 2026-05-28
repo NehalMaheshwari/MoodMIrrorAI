@@ -8,3 +8,10 @@ AI-powered real-time emotion detection using Python and OpenCV.
 - Webcam face tracking
 - Emotion prediction
 - Confidence percentage
+
+  ## 🛠️ Tech Stack
+
+- Python
+- OpenCV
+- FER
+- TensorFlow
