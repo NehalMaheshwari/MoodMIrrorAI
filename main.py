@@ -11,3 +11,13 @@ def start_camera():
         return None
 
     return cap
+    while True:
+    ret, frame = cap.read()
+
+    if not ret:
+        break
+
+    cv2.imshow("MoodMirrorAI", frame)
+
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
