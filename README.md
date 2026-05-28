@@ -1,2 +1,10 @@
-# MoodMIrrorAI
-an emotion detector that detects your emotion using your webcam. 
+-----------MoodMirrorAI 🎭------------
+
+AI-powered real-time emotion detection using Python and OpenCV.
+
+
+🚀 Features
+- Real-time emotion detection
+- Webcam face tracking
+- Emotion prediction
+- Confidence percentage
